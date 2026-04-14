@@ -15,7 +15,7 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
 1. **Tidak perlu autohotkey karena sudah di compile jadi .exe tinggal jalanin** 
 
 2. **Download macro ini**  
-   - Klik tombol hijau **Code** → **Download ZIP**  
+   - Klik **[disini](https://github.com/Dozxc-SID/MACRO-GARDEN-HORIZON-BY-FIBO-FZ/releases/)** → **Download ZIP**  
    - Atau langsung download file .exe nya👌
 
 -> https://bit.ly/4aVAvJJ
